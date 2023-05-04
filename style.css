@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(216, 158, 158);
+    
+}
+.container{
+    max-width: 400px;
+    margin-top: 100px;
+    position: relative;
+
+   
+}
+.hamburgerContainer{
+    position: absolute;
+    right: 0px;
+}
+.hamburger{
+    width: 20px;
+    height: 2px;
+    background-color: black;
+    margin: 2px 0px;
+    border-radius: 3px;
+    
+    
+    cursor: pointer;
+}
